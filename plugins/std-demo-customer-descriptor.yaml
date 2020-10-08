@@ -1,0 +1,6 @@
+name: std-demo-customer
+image: 'docker.io/entandodemo/customer:0.0.10'
+dbms: none
+healthCheckPath: /management/health
+roles:
+  - customer-list

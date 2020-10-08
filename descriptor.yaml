@@ -1,0 +1,9 @@
+code: seed-signup-bundle
+description: Seed Signup Bundle
+components:
+  widgets:
+    - widgets/signup-descriptor.yaml
+  pageModels:
+    - pageModels/seed_home-descriptor.yaml
+  plugins:
+    - plugins/std-demo-customer-descriptor.yaml
